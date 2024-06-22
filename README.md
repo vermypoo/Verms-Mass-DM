@@ -12,6 +12,7 @@
 ## Imports 
 ```
 pip install colorama
+pip install requests
 ```
 
 ## Use
